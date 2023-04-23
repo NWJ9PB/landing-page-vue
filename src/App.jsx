@@ -7,7 +7,7 @@ function App() {
       NeXT Systems
     </h1>
 
-    <h2 className="text-4xl font-extrabold m-8 text-blue-500 animate-pulse">
+    <h2 className="text-4xl font-extrabold mb-16 text-red-500 animate-pulse">
       Under Maintenance!
     </h2>
 
